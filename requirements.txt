@@ -1,0 +1,6 @@
+tensorflow
+nltk==3.5
+colorama==0.4.3
+numpy
+scikit_learn
+Flask
